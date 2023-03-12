@@ -20,7 +20,11 @@ To use this application, open the integrated terminal and run npm install (npm i
 
 ## Demo   
 
+![image](https://user-images.githubusercontent.com/58886869/224580351-1f175deb-568d-4da6-99be-7fb24ec9364d.png)   
 
+![image](https://user-images.githubusercontent.com/58886869/224580356-0db30d3b-2861-40f4-8be4-be947fe7dc75.png)   
+
+![image](https://user-images.githubusercontent.com/58886869/224580357-21fb15a0-0470-424c-a72d-eadf99cc29be.png)   
 
 ## Credits   
 University of Arizona Coding Bootcamp starter code, mock-up and lesson examples.    
