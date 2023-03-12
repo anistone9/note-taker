@@ -3,13 +3,10 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 
-//Is this still needed, since writeFile and readFile need the actual path?
-const notesData = require('./db/db.json');
-
 //Helper method for generating unique ids
 const uuid = require('./helpers/uuid');
 
-const PORT = process.env.PORT || 3001;
+const PORT = 3001;
 
 //Initialize the app vairable by setting it to the value of express()
 const app = express();
@@ -95,6 +92,4 @@ app.post('/api/notes', (req, res) => {
     }
 });
 
-app.listen(PORT, () =>
-console.log(`App listening at http://localhost:${PORT}`)
-)
+app.listen(PORT, () => console.log(`App listening at http://localhost:${PORT}`));
