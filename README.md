@@ -26,6 +26,10 @@ To use this application, open the integrated terminal and run npm install (npm i
 
 ![image](https://user-images.githubusercontent.com/58886869/224580357-21fb15a0-0470-424c-a72d-eadf99cc29be.png)   
 
+Deployed application via Heroku:    
+
+https://note-taker-astone9.herokuapp.com/     
+
 ## Credits   
 University of Arizona Coding Bootcamp starter code, mock-up and lesson examples.    
 
